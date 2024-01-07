@@ -1,3 +1,3 @@
 # Login-card
 
-Overtime, I have been modifying this login page to fit my skills level.
+This was my first project. I added a navigation bar. I will be updating this project over time as I gain more skills. 

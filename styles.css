@@ -6,13 +6,26 @@
 }
 
 body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
     background: linear-gradient(90deg,
     #FF78C4,
     #FFBDF7,
     #FF78C4);
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+li{
+    list-style-type: none;
+    padding-top: 18px;
 }
 
 
@@ -28,7 +41,12 @@ body{
 
 
 
-
+.master-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
 .general-info{
     background: #FFBDF7;
     height: 700px;
